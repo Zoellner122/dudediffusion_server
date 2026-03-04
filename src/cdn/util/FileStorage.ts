@@ -1,5 +1,3 @@
-Here's the code of used by the CDN for receiving files:
-
 /*
 	Spacebar: A FOSS re-implementation and extension of the Discord.com backend.
 	Copyright (C) 2025 Spacebar and Spacebar Contributors
